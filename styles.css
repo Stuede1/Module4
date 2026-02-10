@@ -479,7 +479,7 @@ body {
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   border: 1px solid var(--border-light);
   position: relative;
-  cursor: pointer;
+  cursor: not-allowed;
 }
 
 .movie-card::before {
